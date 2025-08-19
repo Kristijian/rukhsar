@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/Pink_and_White_Modern_Bloom_Logo.png",
+    "logo": "shopify://shop_images/Pink_and_White_Modern_Bloom_Logo_2ce4a3f7-3bbd-4c8a-ade3-6bb4a8e3acdb.png",
     "logo_width": 130,
     "favicon": "shopify://shop_images/rukhsar_R.png",
     "type_header_font": "serif",
@@ -222,7 +222,7 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#e3a0ab",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
